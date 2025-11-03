@@ -1,35 +1,35 @@
 criaCartao(
-    'Futebol',
-    'Qual seleção tem mais copas do mundo?',
-    'Brasil'
+    'Carro',
+    'Ap mais forte do mundo?',
+    'Gol'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Carro',
+    'Quem está fazendo história em 2025?',
+    'Ricardinho ACF'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Carro',
+    'Caravan mais forte do Brasil?',
+    'Alemão da Caravan'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Carro',
+    'Opala mais forte do mundo?',
+    'Hudema Drag'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Carro',
+    'O que tem no opala mais forte do mundo?',
+    'Propulsor a jato'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta',
-    'Resposta'
+    'Carro',
+    'Para que serve o turbocompressor?',
+    'Devolver ar comprimido para o motor e gerar mais potência'
 )
